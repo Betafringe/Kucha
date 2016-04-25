@@ -1,1 +1,0 @@
-def caps(x)
