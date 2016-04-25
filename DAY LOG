@@ -1,0 +1,55 @@
+Day 1 start' betafringe'20160411
+deploy "Python IDE&Pycharm" "MS visualstudio2015"
+
+Day 2 'Hello world'
+read Python liaoxuefeng in 'functional progranming'
+1.print'Hello world'
+2.develop a game called 'Guess number'
+the origin code below:
+# coding=utf-8
+import random
+number = random.randint(1,100)
+guess_times=0
+game_not_end=True
+
+while game_not_end:
+	guess_times=guess_times+1
+	player_input=int(raw_input("input a number({0}):".format(guess_times)))     'int整型数字 float浮点数
+	if number == player_input:
+		print "Congratulation you win!"
+		game_not_end = False
+	elif player_input > number:
+		print "too big"
+	else:
+		print "too small"
+		
+		
+Day3 fibonacci sequence 'Betafringe'20160424
+read MIT "introduciton to algorithm" which inspire me about the fibonacci's recursion.
+the origin code below:
+# coding=utf-8
+def recur_fibo(n):
+    if n <= 1:
+        return n
+    else:
+        return (recur_fibo(n - 1) + recur_fibo(n - 2))
+def div(x,y):
+    return x / y  
+
+
+nterms = int(input("您要输出几项? "))
+
+
+if nterms <= 0:
+    print("输入正数")
+else:
+    print("斐波那契数列:")
+    for i in range(nterms):
+        if recur_fibo(i+1) <= 1:
+            x=0
+            y=1
+        else:
+            x=float(recur_fibo(i))
+            y=float(recur_fibo(i+1))
+        print(recur_fibo(i)),(div(x,y));
+
