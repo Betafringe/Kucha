@@ -38,4 +38,13 @@ MIT MIT "introduciton to algorithm" about:
      eg4:matrix multiplication
          strassen's alg p1,p2,p3,p4,p5,p6,p7. r,s,t,u
      eg5:VLSI layout， binary tree
+
+Day 6'Betafringe'20160426
+MITMIT MIT "introduciton to algorithm" about:
+1.Quicksort Alg: quicksort(A,p,q) worst time&best time which use randomized quicksort!
+2.Quicksort
+  heapsort
+  Mergesort
+  insetionsort
+  Desition three model
          
