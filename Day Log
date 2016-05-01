@@ -40,7 +40,7 @@ MIT MIT "introduciton to algorithm" about:
      eg5:VLSI layout， binary tree
 
 Day 6'Betafringe'20160426
-MITMIT MIT "introduciton to algorithm" about:
+MIT "introduciton to algorithm" about:
 1.Quicksort Alg: quicksort(A,p,q) worst time&best time which use randomized quicksort!
 2.Quicksort
   heapsort
@@ -49,3 +49,8 @@ MITMIT MIT "introduciton to algorithm" about:
 
 Day 7 'Betafringe'20160429  
 Desition three model
+Day 8  'Betafringe'20160501
+MIT "introduciton to algorithm" about:
+ ORDER SATICTIS  FIND min(max) in array
+ use randomized divide conquer
+   install PIL 
