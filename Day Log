@@ -54,3 +54,10 @@ MIT "introduciton to algorithm" about:
  ORDER SATICTIS  FIND min(max) in array
  use randomized divide conquer
    install PIL 
+Day 9  'Betafringe'20160502
+MIT "introduciton to algorithm" about: 
+Hashing  Hash function H maps keys randomly into slot of table T 类似与函数映射 但是存在着一对多的情况 因此会发生Collision
+Analyics  worst-case O=(1+a)
+Mutiplication method: assumption:m=2**r computer has w bit words
+h(k)=(Ak mod2**w)rsh(w-r)
+probe time  1/(1-a)
