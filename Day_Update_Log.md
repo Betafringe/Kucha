@@ -1,6 +1,6 @@
 #学习日志 
 Update_add_20160627
-##Day 1 start'betafringe'20160411
+##Day 1 start'20160411
 deploy "Python IDE&Pycharm" "MS visualstudio2015"
 
 ##Day 2 'Hello world'
@@ -10,7 +10,7 @@ read Python liaoxuefeng in 'functional progranming'
 the origin code below:0000
 
 		
-##Day3 fibonacci sequence 'Betafringe'20160424
+##Day3 fibonacci sequence '20160424
 read MIT "introduciton to algorithm" which inspire me about the fibonacci's recursion.
 the origin code below:0001
 
@@ -51,7 +51,7 @@ MIT "introduciton to algorithm" about:
 
 ##Day 7 'Desition three model'20160429  
 Desition three model
-##Day 8  'Betafringe'20160501
+##Day 8  ''20160501
 MIT "introduciton to algorithm" about:
  ORDER SATICTIS  FIND min(max) in array
  use randomized divide conquer
@@ -76,7 +76,7 @@ Books on the way .need to refresh python
 How to BSA? , BUBBLESORT
 ##Day 15 'NONE'20160516
 NO UPDATE. ON THE FINAL thesis.
-##Day 16 'Betafringe'20160517
+##Day 16 ''20160517
 Javascript  arrray.  
 DSA vector insert replace add.
 ##Day 17 '大学毕业，收拾心情，新的目标'20160626
